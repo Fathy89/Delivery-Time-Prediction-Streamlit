@@ -59,6 +59,8 @@ The project includes **data preprocessing, feature engineering, multiple ML mode
 1. **Clone the repository**
 git clone https://github.com/Fathy89/Delivery-Time-Prediction-Streamlit.git
 cd delivery-time-prediction-streamlit
+then  run this command : streamlit run frontend/ui.py
+The App will run with you
 
 ---
 
@@ -94,6 +96,8 @@ The app contains six tabs, each with a specific purpose:
 
 This project was developed using **Python 3.12.1**.  
 The following Python packages are required to run the ML models and Streamlit app:
+
+
 
 ---
 if You Have Any Comments Contact Me.
