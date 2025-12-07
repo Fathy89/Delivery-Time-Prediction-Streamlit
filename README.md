@@ -10,13 +10,12 @@ The project includes **data preprocessing, feature engineering, multiple ML mode
 ---
 
 ## 📂 Project Structure
-├── Data/           # Raw and processed datasets (ignored if large)
-├── frontend/       # Streamlit app files and Plot.py used with the app
-├── Note_Books/     # Jupyter notebooks for EDA, feature engineering, modeling, and .pkl files
-├── src/            # Python scripts for preprocessing, training, and utilities
-├── .gitignore      # Git ignore file
-├── README.md       # This file
-└── requirements.txt # Dependencies & Python version
+- Data/           # Raw and processed datasets (ignored if large)
+- frontend/       # Streamlit app files and Plot.py used with the app
+- Note_Books/     # Jupyter notebooks for EDA, feature engineering, modeling, and .pkl files
+- src/            # Python scripts for preprocessing, training, and utilities
+- README.md       # This file
+- requirements.txt # Dependencies & Python version
 
 --- 
 
@@ -88,6 +87,5 @@ The app contains six tabs, each with a specific purpose:
 This project was developed using **Python 3.12.1**.  
 The following Python packages are required to run the ML models and Streamlit app:
 
-
-
-** if You Have Any Comments Contact Me.**
+---
+if You Have Any Comments Contact Me.
