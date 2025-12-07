@@ -57,10 +57,10 @@ The project includes **data preprocessing, feature engineering, multiple ML mode
 ## 🛠️ Installation & Usage
 
 1. **Clone the repository**
-git clone https://github.com/Fathy89/Delivery-Time-Prediction-Streamlit.git
-cd delivery-time-prediction-streamlit
-then  run this command : streamlit run frontend/ui.py
-The App will run with you
+- git clone https://github.com/Fathy89/Delivery-Time-Prediction-Streamlit.git
+- cd delivery-time-prediction-streamlit
+-then  run this command : streamlit run frontend/ui.py
+ The App will run with you
 
 ---
 
