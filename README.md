@@ -11,11 +11,11 @@ The project includes **data preprocessing, feature engineering, multiple ML mode
 
 ## 📂 Project Structure
 
-├── Data/ # Raw and processed datasets (ignored if large)
-├── frontend/ # Streamlit app file  and Plot.py File Used With This app
-├── Note_Books/ # Jupyter notebooks for EDA ,Feature Engineering , Modling and pkl files
-├── src/ # Python scripts for preprocessing, training, and utilities
-├── .gitignore # Git ignore file
+├── Data/  Raw and processed datasets (ignored if large)
+├── frontend/  Streamlit app file  and Plot.py File Used With This app
+├── Note_Books/  Jupyter notebooks for EDA ,Feature Engineering , Modling and pkl files
+├── src/  Python scripts for preprocessing, training, and utilities
+├── .gitignore  Git ignore file
 ├── README.md
 └──requirements.txt for (Dependencies & Python Version)
 --- 
@@ -48,7 +48,7 @@ cd delivery-time-prediction-streamlit
 
 ---
 
-## ** 🖥️ Streamlit App Tabs **
+##  🖥️ Streamlit App Tabs 
 
 The app contains six tabs, each with a specific purpose:
 
@@ -77,9 +77,11 @@ The app contains six tabs, each with a specific purpose:
 - About Me Tab
 
    General information about the developer
-![image alt][https://github.com/Fathy89/Delivery-Time-Prediction-Streamlit/blob/10d6cb303573c039d397727b2ad25e9cb8468640/pro1.PNG]
 
 --- 
+## 📊 Sample App Screenshot
+
+![Streamlit App Screenshot](https://github.com/Fathy89/Delivery-Time-Prediction-Streamlit/blob/10d6cb303573c039d397727b2ad25e9cb8468640/pro1.PNG?raw=true)
 
 ##  🛠️ Dependencies & Python Version
 
