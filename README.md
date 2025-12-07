@@ -62,35 +62,28 @@ cd delivery-time-prediction-streamlit
 
 ---
 
-##  🖥️ Streamlit App Tabs 
+## 🖥️ Streamlit App Tabs
 
 The app contains six tabs, each with a specific purpose:
 
-- Data Tab
+- **Data Tab**  
+  Displays column definitions and dataset overview.
 
-    Displays column definitions and dataset overview.
+- **Analysis Tab**  
+  Shows various plots.  
+  Includes a button under each plot that gives a comment/insight when pressed.
 
-- Analysis Tab
+- **Recommendation Tab**  
+  Provides actionable recommendations based on analysis.
 
-  Shows various plots.
+- **Model Tab**  
+  Allows you to input data and get the predicted delivery time using the trained model.
 
-   Includes a button under each plot that gives a comment/insight when pressed.
-
-- Recommendation Tab :
-
-    Provides actionable recommendations based on analysis.
-
-- Model Tab
-
-    Allows you to input data and get the predicted delivery time using the trained model.
-
-- Score Tab
-
+- **Score Tab**  
   Displays model performance metrics when run on different test datasets.
 
-- About Me Tab
-
-   General information about the developer
+- **About Me Tab**  
+  General information about the developer.
 
 --- 
 ## 📊 App Screenshot
