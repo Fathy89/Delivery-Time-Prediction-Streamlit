@@ -10,12 +10,12 @@ The project includes **data preprocessing, feature engineering, multiple ML mode
 ---
 
 ## 📂 Project Structure
-- Data/           # Raw and processed datasets (ignored if large)
-- frontend/       # Streamlit app files and Plot.py used with the app
-- Note_Books/     # Jupyter notebooks for EDA, feature engineering, modeling, and .pkl files
-- src/            # Python scripts for preprocessing, training, and utilities
-- README.md       # This file
-- requirements.txt # Dependencies & Python version
+- Data/            Raw and processed datasets (ignored if large)
+- frontend/        Streamlit app files and Plot.py used with the app
+- Note_Books/      Jupyter notebooks for EDA, feature engineering, modeling, and .pkl files
+- src/             Python scripts for preprocessing, training, and utilities
+- README.md        This file
+- requirements.txt  Dependencies & Python version
 
 --- 
 
